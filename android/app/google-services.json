@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092052399698",
+    "project_id": "aerotrav-3774b",
+    "storage_bucket": "aerotrav-3774b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092052399698:android:16678006f0e36a2037918b",
+        "android_client_info": {
+          "package_name": "com.ihza.aerotrav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092052399698-t1fah2r41fp05r028n297i10cfati1rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zsaxnOOG_9-1dqFYR6HbZX_JJXcLatE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092052399698-t1fah2r41fp05r028n297i10cfati1rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
